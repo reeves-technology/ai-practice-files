@@ -1,0 +1,638 @@
+expense_id,date,department,traveler,trip,category,amount
+EX-40001,2025-05-10,Registrar,Staff 064,"Consortium meeting, Pine Ridge",mileage,52.85
+EX-40002,2025-05-11,Registrar,Staff 064,"Consortium meeting, Pine Ridge",hotel,175.75
+EX-40003,2025-05-11,Registrar,Staff 064,"Consortium meeting, Pine Ridge",meals,60.00
+EX-40004,2025-05-22,Advising,Staff 018,"Transfer advising workshop, Harbor City",mileage,72.98
+EX-40005,2025-05-23,Facilities,Staff 027,"Safety training, Millbrook",airfare,379.00
+EX-40006,2025-05-23,Financial Aid,Staff 036,"Financial aid conference, Granite Falls",mileage,111.59
+EX-40007,2025-05-23,Student Life,Staff 078,"Student leadership retreat, Silver Lake",mileage,43.84
+EX-40008,2025-05-24,Admissions,Staff 007,"High school visits, Westhaven",mileage,67.52
+EX-40009,2025-05-25,Advising,Staff 018,"Transfer advising workshop, Harbor City",hotel,447.22
+EX-40010,2025-05-25,Advising,Staff 018,"Transfer advising workshop, Harbor City",meals,120.00
+EX-40011,2025-05-25,Financial Aid,Staff 036,"Financial aid conference, Granite Falls",hotel,227.14
+EX-40012,2025-05-25,Financial Aid,Staff 036,"Financial aid conference, Granite Falls",meals,60.00
+EX-40013,2025-05-25,Student Life,Staff 073,"Student leadership retreat, Fairview",airfare,311.66
+EX-40014,2025-05-25,Student Life,Staff 078,"Student leadership retreat, Silver Lake",hotel,363.73
+EX-40015,2025-05-25,Student Life,Staff 078,"Student leadership retreat, Silver Lake",meals,120.00
+EX-40016,2025-05-26,Facilities,Staff 027,"Safety training, Millbrook",hotel,415.02
+EX-40017,2025-05-26,Facilities,Staff 027,"Safety training, Millbrook",meals,220.00
+EX-40018,2025-05-26,Facilities,Staff 027,"Safety training, Millbrook",parking,72.00
+EX-40019,2025-05-27,Student Life,Staff 073,"Student leadership retreat, Fairview",hotel,287.92
+EX-40020,2025-05-27,Student Life,Staff 073,"Student leadership retreat, Fairview",meals,165.00
+EX-40021,2025-05-27,Student Life,Staff 073,"Student leadership retreat, Fairview",parking,54.00
+EX-40022,2025-05-28,Admissions,Staff 007,"High school visits, Westhaven",hotel,705.60
+EX-40023,2025-05-28,Admissions,Staff 007,"High school visits, Westhaven",meals,300.00
+EX-40024,2025-06-04,Facilities,Staff 024,"Facilities management conference, Granite Falls",mileage,160.89
+EX-40025,2025-06-05,Library,Staff 055,"Library conference, Pine Ridge",mileage,73.37
+EX-40026,2025-06-06,Facilities,Staff 024,"Facilities management conference, Granite Falls",hotel,337.26
+EX-40027,2025-06-06,Facilities,Staff 024,"Facilities management conference, Granite Falls",meals,160.00
+EX-40028,2025-06-06,Library,Staff 055,"Library conference, Pine Ridge",hotel,134.56
+EX-40029,2025-06-06,Library,Staff 055,"Library conference, Pine Ridge",meals,120.00
+EX-40030,2025-06-11,Financial Aid,Staff 033,"College goal day, Oak Hollow",airfare,210.90
+EX-40031,2025-06-12,Financial Aid,Staff 033,"College goal day, Oak Hollow",ground transport,51.15
+EX-40032,2025-06-12,Financial Aid,Staff 033,"College goal day, Oak Hollow",hotel,197.62
+EX-40033,2025-06-12,Financial Aid,Staff 033,"College goal day, Oak Hollow",meals,120.00
+EX-40034,2025-06-20,Facilities,Staff 027,"Safety training, Riverton",mileage,215.65
+EX-40035,2025-06-21,Facilities,Staff 027,"Safety training, Riverton",hotel,88.83
+EX-40036,2025-06-21,Facilities,Staff 027,"Safety training, Riverton",meals,60.00
+EX-40037,2025-06-22,Library,Staff 054,"Archives workshop, Northfield",mileage,156.23
+EX-40038,2025-06-23,Library,Staff 054,"Archives workshop, Northfield",hotel,108.59
+EX-40039,2025-06-23,Library,Staff 054,"Archives workshop, Northfield",meals,60.00
+EX-40040,2025-06-25,Admissions,Staff 003,"Counselor breakfast, Riverton",mileage,122.59
+EX-40041,2025-06-26,Admissions,Staff 003,"Counselor breakfast, Riverton",hotel,164.64
+EX-40042,2025-06-26,Admissions,Staff 003,"Counselor breakfast, Riverton",meals,60.00
+EX-40043,2025-07-07,Student Life,Staff 072,"Student leadership retreat, Riverton",airfare,536.35
+EX-40044,2025-07-09,Student Life,Staff 072,"Student leadership retreat, Riverton",hotel,242.62
+EX-40045,2025-07-09,Student Life,Staff 072,"Student leadership retreat, Riverton",meals,160.00
+EX-40046,2025-07-09,Student Life,Staff 072,"Student leadership retreat, Riverton",parking,54.00
+EX-40047,2025-07-10,Student Life,Staff 071,"Student activities conference, Westhaven",airfare,469.37
+EX-40048,2025-07-14,Student Life,Staff 071,"Student activities conference, Westhaven",hotel,687.16
+EX-40049,2025-07-14,Student Life,Staff 071,"Student activities conference, Westhaven",meals,300.00
+EX-40050,2025-07-15,Admissions,Staff 007,"Counselor breakfast, Silver Lake",airfare,399.76
+EX-40051,2025-07-15,Admissions,Staff 008,"Transfer fair, Granite Falls",airfare,486.70
+EX-40052,2025-07-16,Admissions,Staff 003,"Recruitment travel, Oak Hollow",airfare,409.01
+EX-40053,2025-07-18,Admissions,Staff 007,"Counselor breakfast, Silver Lake",hotel,582.06
+EX-40054,2025-07-18,Admissions,Staff 007,"Counselor breakfast, Silver Lake",meals,240.00
+EX-40055,2025-07-18,Admissions,Staff 008,"Transfer fair, Granite Falls",ground transport,65.98
+EX-40056,2025-07-18,Admissions,Staff 008,"Transfer fair, Granite Falls",hotel,570.12
+EX-40057,2025-07-18,Admissions,Staff 008,"Transfer fair, Granite Falls",meals,240.00
+EX-40058,2025-07-19,Advising,Staff 014,"Advising conference, Fairview",airfare,455.56
+EX-40059,2025-07-19,Advising,Staff 015,"Transfer advising workshop, Pine Ridge",airfare,610.35
+EX-40060,2025-07-20,Admissions,Staff 003,"Recruitment travel, Oak Hollow",hotel,639.04
+EX-40061,2025-07-20,Admissions,Staff 003,"Recruitment travel, Oak Hollow",meals,285.00
+EX-40062,2025-07-21,Advising,Staff 014,"Advising conference, Fairview",hotel,319.80
+EX-40063,2025-07-21,Advising,Staff 014,"Advising conference, Fairview",meals,165.00
+EX-40064,2025-07-21,Financial Aid,Staff 035,"Aid regulations training, Millbrook",airfare,229.09
+EX-40065,2025-07-22,Admissions,Staff 006,"Recruitment travel, Fairview",airfare,601.21
+EX-40066,2025-07-22,Advising,Staff 015,"Transfer advising workshop, Pine Ridge",hotel,558.06
+EX-40067,2025-07-22,Advising,Staff 015,"Transfer advising workshop, Pine Ridge",meals,225.00
+EX-40068,2025-07-24,Admissions,Staff 006,"Recruitment travel, Fairview",hotel,242.70
+EX-40069,2025-07-24,Admissions,Staff 006,"Recruitment travel, Fairview",meals,165.00
+EX-40070,2025-07-24,Library,Staff 052,"Library conference, Riverton",conference fee,375.00
+EX-40071,2025-07-25,Advising,Staff 016,"Advising conference, Fairview",conference fee,620.00
+EX-40072,2025-07-25,Financial Aid,Staff 035,"Aid regulations training, Millbrook",hotel,487.80
+EX-40073,2025-07-25,Financial Aid,Staff 035,"Aid regulations training, Millbrook",meals,300.00
+EX-40074,2025-08-07,Registrar,Staff 064,"Consortium meeting, Oak Hollow",airfare,476.54
+EX-40075,2025-08-10,Registrar,Staff 064,"Consortium meeting, Oak Hollow",hotel,365.07
+EX-40076,2025-08-10,Registrar,Staff 064,"Consortium meeting, Oak Hollow",meals,240.00
+EX-40077,2025-08-10,Registrar,Staff 067,"Records system training, Harbor City",airfare,342.92
+EX-40078,2025-08-12,Registrar,Staff 067,"Records system training, Harbor City",ground transport,40.17
+EX-40079,2025-08-12,Registrar,Staff 067,"Records system training, Harbor City",hotel,381.56
+EX-40080,2025-08-12,Registrar,Staff 067,"Records system training, Harbor City",meals,160.00
+EX-40081,2025-08-15,Advising,Staff 012,"Advising conference, Silver Lake",airfare,238.66
+EX-40082,2025-08-15,Library,Staff 052,"Library conference, Riverton",mileage,237.05
+EX-40083,2025-08-15,Registrar,Staff 061,"Records system training, Lakeport",mileage,154.99
+EX-40084,2025-08-16,Human Resources,Staff 044,"Benefits training, Westhaven",mileage,239.18
+EX-40085,2025-08-17,Registrar,Staff 064,"Consortium meeting, Lakeport",airfare,310.62
+EX-40086,2025-08-18,Registrar,Staff 061,"Records system training, Lakeport",hotel,587.13
+EX-40087,2025-08-18,Registrar,Staff 061,"Records system training, Lakeport",meals,240.00
+EX-40088,2025-08-18,Registrar,Staff 064,"Consortium meeting, Lakeport",hotel,171.49
+EX-40089,2025-08-18,Registrar,Staff 064,"Consortium meeting, Lakeport",meals,100.00
+EX-40090,2025-08-19,Advising,Staff 012,"Advising conference, Silver Lake",ground transport,41.49
+EX-40091,2025-08-19,Advising,Staff 012,"Advising conference, Silver Lake",hotel,505.12
+EX-40092,2025-08-19,Advising,Staff 012,"Advising conference, Silver Lake",meals,285.00
+EX-40093,2025-08-19,Advising,Staff 012,"Advising conference, Silver Lake",parking,90.00
+EX-40094,2025-08-19,Human Resources,Staff 044,"Benefits training, Westhaven",hotel,480.06
+EX-40095,2025-08-19,Human Resources,Staff 044,"Benefits training, Westhaven",meals,240.00
+EX-40096,2025-08-19,Library,Staff 052,"Library conference, Riverton",hotel,543.60
+EX-40097,2025-08-19,Library,Staff 052,"Library conference, Riverton",meals,300.00
+EX-40098,2025-08-20,Registrar,Staff 069,"Registrar conference, Westhaven",conference fee,380.00
+EX-40099,2025-08-22,Admissions,Staff 005,"College fair, Bayside",airfare,547.62
+EX-40100,2025-08-22,Admissions,Staff 007,"Counselor breakfast, Silver Lake",airfare,531.31
+EX-40101,2025-08-23,Advising,Staff 016,"Advising conference, Fairview",airfare,460.91
+EX-40102,2025-08-23,Financial Aid,Staff 036,"College goal day, Harbor City",conference fee,550.00
+EX-40103,2025-08-25,Advising,Staff 016,"Advising conference, Fairview",hotel,266.34
+EX-40104,2025-08-25,Advising,Staff 016,"Advising conference, Fairview",meals,180.00
+EX-40105,2025-08-26,Admissions,Staff 005,"College fair, Bayside",ground transport,32.99
+EX-40106,2025-08-26,Admissions,Staff 005,"College fair, Bayside",hotel,752.04
+EX-40107,2025-08-26,Admissions,Staff 005,"College fair, Bayside",meals,285.00
+EX-40108,2025-08-26,Admissions,Staff 007,"Counselor breakfast, Silver Lake",hotel,558.40
+EX-40109,2025-08-26,Admissions,Staff 007,"Counselor breakfast, Silver Lake",meals,300.00
+EX-40110,2025-08-26,Admissions,Staff 007,"Counselor breakfast, Silver Lake",parking,90.00
+EX-40111,2025-08-27,Registrar,Staff 067,"Records system training, Fairview",airfare,388.95
+EX-40112,2025-08-29,Registrar,Staff 067,"Records system training, Fairview",hotel,260.26
+EX-40113,2025-08-29,Registrar,Staff 067,"Records system training, Fairview",meals,180.00
+EX-40114,2025-09-01,Admissions,Staff 009,"Recruitment travel, Oak Hollow",airfare,545.42
+EX-40115,2025-09-02,Human Resources,Staff 047,"Job fair, Eastgate",mileage,237.07
+EX-40116,2025-09-04,Admissions,Staff 009,"Recruitment travel, Oak Hollow",hotel,574.26
+EX-40117,2025-09-04,Admissions,Staff 009,"Recruitment travel, Oak Hollow",meals,240.00
+EX-40118,2025-09-04,Human Resources,Staff 047,"Job fair, Eastgate",hotel,210.17
+EX-40119,2025-09-04,Human Resources,Staff 047,"Job fair, Eastgate",meals,120.00
+EX-40120,2025-09-07,Admissions,Staff 005,"High school visits, Westhaven",mileage,229.36
+EX-40121,2025-09-09,Admissions,Staff 005,"High school visits, Westhaven",hotel,260.56
+EX-40122,2025-09-09,Admissions,Staff 005,"High school visits, Westhaven",meals,180.00
+EX-40123,2025-09-09,Advising,Staff 016,"Advising conference, Silver Lake",mileage,172.25
+EX-40124,2025-09-10,Facilities,Staff 027,"Facilities management conference, Fairview",mileage,169.49
+EX-40125,2025-09-11,Advising,Staff 016,"Advising conference, Silver Lake",hotel,341.02
+EX-40126,2025-09-11,Advising,Staff 016,"Advising conference, Silver Lake",meals,180.00
+EX-40127,2025-09-11,Facilities,Staff 027,"Facilities management conference, Fairview",hotel,91.53
+EX-40128,2025-09-11,Facilities,Staff 027,"Facilities management conference, Fairview",meals,60.00
+EX-40129,2025-09-13,Admissions,Staff 009,"Recruitment travel, Eastgate",mileage,99.98
+EX-40130,2025-09-14,Human Resources,Staff 047,"Benefits training, Oak Hollow",mileage,72.70
+EX-40131,2025-09-15,Human Resources,Staff 047,"Benefits training, Oak Hollow",hotel,153.04
+EX-40132,2025-09-15,Human Resources,Staff 047,"Benefits training, Oak Hollow",meals,120.00
+EX-40133,2025-09-17,Admissions,Staff 009,"Recruitment travel, Eastgate",hotel,625.68
+EX-40134,2025-09-17,Admissions,Staff 009,"Recruitment travel, Eastgate",meals,285.00
+EX-40135,2025-09-17,Financial Aid,Staff 036,"College goal day, Harbor City",airfare,381.70
+EX-40136,2025-09-18,Advising,Staff 016,"Transfer advising workshop, Westhaven",airfare,223.92
+EX-40137,2025-09-19,Admissions,Staff 001,"Recruitment travel, Westhaven",airfare,430.47
+EX-40138,2025-09-19,Admissions,Staff 001,"Transfer fair, Silver Lake",mileage,176.14
+EX-40139,2025-09-20,Advising,Staff 016,"Transfer advising workshop, Westhaven",hotel,245.82
+EX-40140,2025-09-20,Advising,Staff 016,"Transfer advising workshop, Westhaven",meals,180.00
+EX-40141,2025-09-20,Financial Aid,Staff 036,"College goal day, Harbor City",ground transport,62.87
+EX-40142,2025-09-20,Financial Aid,Staff 036,"College goal day, Harbor City",hotel,443.64
+EX-40142,2025-09-20,Financial Aid,Staff 036,"College goal day, Harbor City",hotel,443.64
+EX-40143,2025-09-20,Financial Aid,Staff 036,"College goal day, Harbor City",meals,220.00
+EX-40144,2025-09-20,Financial Aid,Staff 038,"Financial aid conference, Harbor City",airfare,532.55
+EX-40145,2025-09-20,Registrar,Staff 069,"Registrar conference, Westhaven",airfare,469.58
+EX-40146,2025-09-21,Admissions,Staff 001,"Recruitment travel, Westhaven",hotel,354.46
+EX-40147,2025-09-21,Admissions,Staff 001,"Recruitment travel, Westhaven",meals,180.00
+EX-40148,2025-09-21,Admissions,Staff 001,"Recruitment travel, Westhaven",parking,54.00
+EX-40149,2025-09-21,Admissions,Staff 004,"Recruitment travel, Silver Lake",airfare,585.08
+EX-40150,2025-09-22,Registrar,Staff 069,"Registrar conference, Westhaven",hotel,385.06
+EX-40151,2025-09-22,Registrar,Staff 069,"Registrar conference, Westhaven",meals,160.00
+EX-40152,2025-09-22,Registrar,Staff 069,"Registrar conference, Westhaven",parking,54.00
+EX-40153,2025-09-23,Admissions,Staff 001,"Transfer fair, Silver Lake",hotel,749.60
+EX-40154,2025-09-23,Admissions,Staff 001,"Transfer fair, Silver Lake",meals,280.00
+EX-40155,2025-09-23,Financial Aid,Staff 038,"Financial aid conference, Harbor City",hotel,392.82
+EX-40156,2025-09-23,Financial Aid,Staff 038,"Financial aid conference, Harbor City",meals,240.00
+EX-40157,2025-09-24,Admissions,Staff 004,"Recruitment travel, Silver Lake",hotel,509.55
+EX-40158,2025-09-24,Admissions,Staff 004,"Recruitment travel, Silver Lake",meals,240.00
+EX-40159,2025-09-24,Admissions,Staff 004,"Recruitment travel, Silver Lake",parking,72.00
+EX-40160,2025-09-24,Facilities,Staff 023,"Facilities management conference, Lakeport",airfare,512.02
+EX-40161,2025-09-25,Financial Aid,Staff 035,"College goal day, Pine Ridge",airfare,442.84
+EX-40162,2025-09-26,Human Resources,Staff 042,"Benefits training, Millbrook",airfare,407.74
+EX-40163,2025-09-27,Facilities,Staff 023,"Facilities management conference, Lakeport",ground transport,60.63
+EX-40164,2025-09-27,Facilities,Staff 023,"Facilities management conference, Lakeport",hotel,515.49
+EX-40165,2025-09-27,Facilities,Staff 023,"Facilities management conference, Lakeport",meals,225.00
+EX-40166,2025-09-28,Financial Aid,Staff 035,"College goal day, Pine Ridge",hotel,444.87
+EX-40167,2025-09-28,Financial Aid,Staff 035,"College goal day, Pine Ridge",meals,240.00
+EX-40168,2025-09-29,Admisions,Staff 005,"Counselor breakfast, Fairview",mileage,103.34
+EX-40169,2025-09-29,Human Resources,Staff 042,"Benefits training, Millbrook",hotel,407.22
+EX-40170,2025-09-29,Human Resources,Staff 042,"Benefits training, Millbrook",meals,225.00
+EX-40171,2025-10-02,Admisions,Staff 005,"Counselor breakfast, Fairview",hotel,529.32
+EX-40172,2025-10-02,Admisions,Staff 005,"Counselor breakfast, Fairview",meals,220.00
+EX-40173,2025-10-02,Facilities,Staff 026,"Facilities management conference, Riverton",airfare,344.12
+EX-40174,2025-10-02,Library,Staff 056,"Archives workshop, Fairview",airfare,268.69
+EX-40175,2025-10-04,Student Life,Staff 079,"Club travel, staff advisor, Fairview",mileage,222.03
+EX-40176,2025-10-06,Advising,Staff 011,"Transfer advising workshop, Millbrook",conference fee,650.00
+EX-40177,2025-10-06,Facilities,Staff 026,"Facilities management conference, Riverton",ground transport,45.85
+EX-40178,2025-10-06,Facilities,Staff 026,"Facilities management conference, Riverton",hotel,728.80
+EX-40179,2025-10-06,Facilities,Staff 026,"Facilities management conference, Riverton",meals,300.00
+EX-40180,2025-10-06,Facilities,Staff 026,"Facilities management conference, Riverton",parking,90.00
+EX-40181,2025-10-06,Financial Aid,Staff 036,"Financial aid conference, Harbor City",airfare,487.58
+EX-40182,2025-10-06,Library,Staff 056,"Archives workshop, Fairview",hotel,635.40
+EX-40183,2025-10-06,Library,Staff 056,"Archives workshop, Fairview",meals,285.00
+EX-40184,2025-10-06,Library,Staff 056,"Archives workshop, Fairview",parking,90.00
+EX-40185,2025-10-06,Student Life,Staff 079,"Club travel, staff advisor, Fairview",hotel,242.96
+EX-40186,2025-10-06,Student Life,Staff 079,"Club travel, staff advisor, Fairview",meals,165.00
+EX-40187,2025-10-07,Advising,Staff 017,"Regional advising meeting, Riverton",airfare,220.41
+EX-40188,2025-10-10,Financial Aid,Staff 036,"Financial aid conference, Harbor City",hotel,509.12
+EX-40189,2025-10-10,Financial Aid,Staff 036,"Financial aid conference, Harbor City",meals,300.00
+EX-40190,2025-10-10,Financial Aid,Staff 039,"Financial aid conference, Lakeport",conference fee,650.00
+EX-40191,2025-10-10,Student Life,Staff 079,"Student leadership retreat, Millbrook",conference fee,625.00
+EX-40192,2025-10-11,Admissions,Staff 001,"Transfer fair, Northfield",airfare,567.01
+EX-40193,2025-10-11,Advising,Staff 017,"Regional advising meeting, Riverton",ground transport,25.45
+EX-40194,2025-10-11,Advising,Staff 017,"Regional advising meeting, Riverton",hotel,503.04
+EX-40195,2025-10-11,Advising,Staff 017,"Regional advising meeting, Riverton",meals,300.00
+EX-40196,2025-10-12,Student Life,Staff 079,"Student activities conference, Granite Falls",conference fee,600.00
+EX-40197,2025-10-13,Admissions,Staff 001,"Transfer fair, Northfield",hotel,380.22
+EX-40198,2025-10-13,Admissions,Staff 001,"Transfer fair, Northfield",meals,180.00
+EX-40199,2025-10-13,Admissions,Staff 001,"Transfer fair, Northfield",parking,54.00
+EX-40200,2025-10-13,Student Life,Staff 076,"Student activities conference, Bayside",airfare,502.79
+EX-40201,2025-10-15,Registrar,Staff 066,"Consortium meeting, Silver Lake",mileage,121.62
+EX-40202,2025-10-16,Registrar,Staff 067,"Consortium meeting, Northfield",airfare,549.66
+EX-40203,2025-10-16,Student Life,Staff 076,"Student activities conference, Bayside",ground transport,36.95
+EX-40204,2025-10-16,Student Life,Staff 076,"Student activities conference, Bayside",hotel,545.88
+EX-40205,2025-10-16,Student Life,Staff 076,"Student activities conference, Bayside",meals,240.00
+EX-40206,2025-10-16,Student Life,Staff 076,"Student activities conference, Bayside",parking,72.00
+EX-40207,2025-10-17,Admissions,Staff 008,"Counselor breakfast, Harbor City",conference fee,650.00
+EX-40208,2025-10-17,Registrar,Staff 066,"Consortium meeting, Silver Lake",hotel,294.88
+EX-40209,2025-10-17,Registrar,Staff 066,"Consortium meeting, Silver Lake",meals,180.00
+EX-40210,2025-10-17,Registrar,Staff 066,"Consortium meeting, Silver Lake",parking,20.19
+EX-40211,2025-10-19,Library,Staff 055,"Archives workshop, Fairview",mileage,222.55
+EX-40212,2025-10-19,Registrar,Staff 067,"Consortium meeting, Northfield",hotel,577.59
+EX-40213,2025-10-19,Registrar,Staff 067,"Consortium meeting, Northfield",meals,225.00
+EX-40214,2025-10-19,Registrar,Staff 067,"Consortium meeting, Northfield",parking,72.00
+EX-40215,2025-10-20,Admissions,Staff 006,"High school visits, Riverton",airfare,271.02
+EX-40216,2025-10-22,Admissions,Staff 006,"High school visits, Riverton",hotel,304.84
+EX-40217,2025-10-22,Admissions,Staff 006,"High school visits, Riverton",meals,160.00
+EX-40218,2025-10-22,Library,Staff 055,"Archives workshop, Fairview",hotel,371.76
+EX-40219,2025-10-22,Library,Staff 055,"Archives workshop, Fairview",meals,240.00
+EX-40220,2025-10-23,Library,Staff 059,"Archives workshop, Silver Lake",mileage,245.63
+EX-40221,2025-10-26,Library,Staff 059,"Archives workshop, Silver Lake",hotel,367.56
+EX-40221,2025-10-26,Library,Staff 059,"Archives workshop, Silver Lake",hotel,367.56
+EX-40222,2025-10-26,Library,Staff 059,"Archives workshop, Silver Lake",meals,240.00
+EX-40223,2025-10-30,Human Resources,Staff 045,"HR conference, Oak Hollow",mileage,232.06
+EX-40224,2025-10-31,Admissions,Staff 008,"Counselor breakfast, Silver Lake",airfare,271.51
+EX-40225,2025-11-01,Admissions,Staff 008,"Counselor breakfast, Silver Lake",hotel,195.68
+EX-40226,2025-11-01,Admissions,Staff 008,"Counselor breakfast, Silver Lake",meals,120.00
+EX-40227,2025-11-01,Human Resources,Staff 045,"HR conference, Oak Hollow",hotel,283.40
+EX-40227,2025-11-01,Human Resources,Staff 045,"HR conference, Oak Hollow",hotel,283.40
+EX-40228,2025-11-01,Human Resources,Staff 045,"HR conference, Oak Hollow",meals,180.00
+EX-40229,2025-11-01,Registrar,Staff 064,"Registrar conference, Pine Ridge",mileage,105.77
+EX-40230,2025-11-05,Registrar,Staff 064,"Registrar conference, Pine Ridge",hotel,694.36
+EX-40231,2025-11-05,Registrar,Staff 064,"Registrar conference, Pine Ridge",meals,300.00
+EX-40232,2025-11-07,Library,Staff 059,"Consortium meeting, Bayside",mileage,79.70
+EX-40233,2025-11-07,Student Life,Staff 079,"Student activities conference, Granite Falls",mileage,84.64
+EX-40234,2025-11-08,Library,Staff 059,"Consortium meeting, Bayside",hotel,167.86
+EX-40235,2025-11-08,Library,Staff 059,"Consortium meeting, Bayside",meals,120.00
+EX-40236,2025-11-09,Advising,Staff 011,"Transfer advising workshop, Harbor City",conference fee,595.00
+EX-40237,2025-11-09,Advising,Staff 015,"Regional advising meeting, Fairview",airfare,597.28
+EX-40238,2025-11-09,Student Life,Staff 079,"Student activities conference, Granite Falls",hotel,371.22
+EX-40239,2025-11-09,Student Life,Staff 079,"Student activities conference, Granite Falls",meals,180.00
+EX-40240,2025-11-10,Admissions,Staff 003,"Counselor breakfast, Northfield",mileage,83.30
+EX-40241,2025-11-11,Admissions,Staff 003,"Counselor breakfast, Northfield",hotel,161.66
+EX-40242,2025-11-11,Admissions,Staff 003,"Counselor breakfast, Northfield",meals,120.00
+EX-40243,2025-11-11,Financial Aid,Staff 035,"Financial aid conference, Millbrook",mileage,135.15
+EX-40244,2025-11-13,Admissions,Staff 002,"College fair, Riverton",airfare,479.77
+EX-40245,2025-11-13,Admissions,Staff 008,"Counselor breakfast, Harbor City",airfare,535.81
+EX-40246,2025-11-13,Advising,Staff 011,"Transfer advising workshop, Millbrook",airfare,423.08
+EX-40247,2025-11-13,Advising,Staff 015,"Regional advising meeting, Fairview",ground transport,31.79
+EX-40248,2025-11-13,Advising,Staff 015,"Regional advising meeting, Fairview",hotel,520.08
+EX-40249,2025-11-13,Advising,Staff 015,"Regional advising meeting, Fairview",meals,285.00
+EX-40250,2025-11-13,Financial Aid,Staff 039,"Financial aid conference, Lakeport",airfare,428.75
+EX-40251,2025-11-14,Financial Aid,Staff 035,"Financial aid conference, Millbrook",hotel,401.67
+EX-40252,2025-11-14,Financial Aid,Staff 035,"Financial aid conference, Millbrook",meals,120.00
+EX-40253,2025-11-15,Admissions,Staff 005,"Recruitment travel, Clearwater Springs",airfare,620.76
+EX-40254,2025-11-15,Advising,Staff 011,"Transfer advising workshop, Millbrook",hotel,322.08
+EX-40255,2025-11-15,Advising,Staff 011,"Transfer advising workshop, Millbrook",meals,165.00
+EX-40256,2025-11-15,Student Life,Staff 079,"Student leadership retreat, Millbrook",airfare,491.72
+EX-40257,2025-11-16,Admissions,Staff 002,"College fair, Riverton",hotel,420.15
+EX-40258,2025-11-16,Admissions,Staff 002,"College fair, Riverton",meals,225.00
+EX-40259,2025-11-16,Financial Aid,Staff 039,"Financial aid conference, Lakeport",ground transport,70.74
+EX-40260,2025-11-16,Financial Aid,Staff 039,"Financial aid conference, Lakeport",hotel,467.82
+EX-40261,2025-11-16,Financial Aid,Staff 039,"Financial aid conference, Lakeport",meals,240.00
+EX-40262,2025-11-16,Financial Aid,Staff 039,"Financial aid conference, Lakeport",parking,72.00
+EX-40263,2025-11-17,Admisions,Staff 008,"Transfer fair, Clearwater Springs",airfare,325.21
+EX-40264,2025-11-17,Admissions,Staff 004,"Transfer fair, Harbor City",airfare,639.68
+EX-40265,2025-11-17,Admissions,Staff 008,"Counselor breakfast, Harbor City",hotel,773.28
+EX-40266,2025-11-17,Admissions,Staff 008,"Counselor breakfast, Harbor City",meals,300.00
+EX-40267,2025-11-17,Human Resources,Staff 046,"HR conference, Oak Hollow",mileage,258.25
+EX-40268,2025-11-17,Student Life,Staff 079,"Student leadership retreat, Millbrook",hotel,388.70
+EX-40269,2025-11-17,Student Life,Staff 079,"Student leadership retreat, Millbrook",meals,165.00
+EX-40270,2025-11-17,Student Life,Staff 079,"Student leadership retreat, Millbrook",parking,54.00
+EX-40271,2025-11-18,Admissions,Staff 004,"Transfer fair, Harbor City",hotel,184.82
+EX-40272,2025-11-18,Admissions,Staff 004,"Transfer fair, Harbor City",meals,100.00
+EX-40273,2025-11-18,Admissions,Staff 005,"Recruitment travel, Clearwater Springs",hotel,492.90
+EX-40274,2025-11-18,Admissions,Staff 005,"Recruitment travel, Clearwater Springs",meals,240.00
+EX-40275,2025-11-19,Admisions,Staff 008,"Transfer fair, Clearwater Springs",ground transport,36.47
+EX-40276,2025-11-19,Admisions,Staff 008,"Transfer fair, Clearwater Springs",hotel,339.94
+EX-40277,2025-11-19,Admisions,Staff 008,"Transfer fair, Clearwater Springs",meals,165.00
+EX-40278,2025-11-19,Human Resources,Staff 046,"HR conference, Oak Hollow",hotel,245.74
+EX-40279,2025-11-19,Human Resources,Staff 046,"HR conference, Oak Hollow",meals,180.00
+EX-40280,2025-11-23,Library,Staff 059,"Library conference, Northfield",airfare,520.23
+EX-40281,2025-11-24,Library,Staff 053,"Archives workshop, Silver Lake",conference fee,350.00
+EX-40282,2025-11-24,Library,Staff 059,"Library conference, Northfield",hotel,197.23
+EX-40283,2025-11-24,Library,Staff 059,"Library conference, Northfield",meals,100.00
+EX-40284,2025-11-24,Library,Staff 059,"Library conference, Northfield",parking,36.00
+EX-40285,2025-11-26,Human Resources,Staff 048,"Job fair, Pine Ridge",mileage,214.50
+EX-40286,2025-11-28,Advising,Staff 011,"Transfer advising workshop, Harbor City",airfare,504.58
+EX-40287,2025-11-28,Human Resources,Staff 048,"Job fair, Pine Ridge",hotel,239.90
+EX-40287,2025-11-28,Human Resources,Staff 048,"Job fair, Pine Ridge",hotel,239.90
+EX-40288,2025-11-28,Human Resources,Staff 048,"Job fair, Pine Ridge",meals,180.00
+EX-40289,2025-12-02,Advising,Staff 011,"Transfer advising workshop, Harbor City",hotel,713.44
+EX-40290,2025-12-02,Advising,Staff 011,"Transfer advising workshop, Harbor City",meals,300.00
+EX-40291,2025-12-06,Advising,Staff 013,"Advising conference, Fairview",conference fee,615.00
+EX-40292,2025-12-08,Library,Staff 053,"Archives workshop, Silver Lake",mileage,116.09
+EX-40293,2025-12-10,Library,Staff 053,"Archives workshop, Silver Lake",hotel,246.16
+EX-40294,2025-12-10,Library,Staff 053,"Archives workshop, Silver Lake",meals,180.00
+EX-40295,2025-12-12,Facilities,Staff 028,"Safety training, Pine Ridge",conference fee,450.00
+EX-40296,2025-12-12,Library,Staff 051,"Archives workshop, Northfield",conference fee,375.00
+EX-40297,2025-12-12,Student Life,Staff 073,"Club travel, staff advisor, Lakeport",mileage,55.46
+EX-40298,2025-12-13,Admissions,Staff 002,"Recruitment travel, Lakeport",airfare,434.45
+EX-40299,2025-12-14,Admissions,Staff 002,"Recruitment travel, Lakeport",ground transport,22.59
+EX-40300,2025-12-14,Admissions,Staff 002,"Recruitment travel, Lakeport",hotel,128.22
+EX-40301,2025-12-14,Admissions,Staff 002,"Recruitment travel, Lakeport",meals,120.00
+EX-40302,2025-12-14,Student Life,Staff 073,"Club travel, staff advisor, Lakeport",hotel,353.19
+EX-40303,2025-12-14,Student Life,Staff 073,"Club travel, staff advisor, Lakeport",meals,120.00
+EX-40304,2025-12-19,Human Resources,Staff 045,"Benefits training, Silver Lake",airfare,258.90
+EX-40305,2025-12-19,Student Life,Staff 078,"Club travel, staff advisor, Northfield",mileage,124.81
+EX-40306,2025-12-21,Financial Aid,Staff 031,"College goal day, Pine Ridge",airfare,536.36
+EX-40307,2025-12-22,Human Resources,Staff 045,"Benefits training, Silver Lake",ground transport,24.39
+EX-40308,2025-12-22,Human Resources,Staff 045,"Benefits training, Silver Lake",hotel,430.68
+EX-40309,2025-12-22,Human Resources,Staff 045,"Benefits training, Silver Lake",meals,240.00
+EX-40310,2025-12-22,Student Life,Staff 078,"Club travel, staff advisor, Northfield",hotel,521.25
+EX-40311,2025-12-22,Student Life,Staff 078,"Club travel, staff advisor, Northfield",meals,220.00
+EX-40312,2025-12-23,Advising,Staff 013,"Regional advising meeting, Harbor City",airfare,296.13
+EX-40313,2025-12-23,Financial Aid,Staff 031,"College goal day, Pine Ridge",hotel,339.28
+EX-40314,2025-12-23,Financial Aid,Staff 031,"College goal day, Pine Ridge",meals,180.00
+EX-40315,2025-12-24,Admissions,Staff 003,"Recruitment travel, Clearwater Springs",airfare,217.47
+EX-40316,2025-12-26,Advising,Staff 013,"Regional advising meeting, Harbor City",hotel,554.79
+EX-40317,2025-12-26,Advising,Staff 013,"Regional advising meeting, Harbor City",meals,240.00
+EX-40318,2025-12-27,Admissions,Staff 003,"Recruitment travel, Clearwater Springs",hotel,371.31
+EX-40319,2025-12-27,Admissions,Staff 003,"Recruitment travel, Clearwater Springs",meals,240.00
+EX-40320,2025-12-27,Admissions,Staff 003,"Recruitment travel, Clearwater Springs",parking,72.00
+EX-40321,2025-12-28,Facilities,Staff 022,"Safety training, Lakeport",airfare,455.97
+EX-40322,2025-12-28,Student Life,Staff 078,"Orientation leaders conference, Clearwater Springs",airfare,291.08
+EX-40323,2025-12-29,Advising,Staff 014,"Transfer advising workshop, Clearwater Springs",airfare,254.20
+EX-40324,2025-12-30,Admissions,Staff 002,"Counselor breakfast, Clearwater Springs",conference fee,425.00
+EX-40325,2025-12-30,Facilities,Staff 022,"Safety training, Lakeport",hotel,252.56
+EX-40326,2025-12-30,Facilities,Staff 022,"Safety training, Lakeport",meals,180.00
+EX-40327,2025-12-30,Student Life,Staff 078,"Orientation leaders conference, Clearwater Springs",ground transport,61.93
+EX-40328,2025-12-30,Student Life,Staff 078,"Orientation leaders conference, Clearwater Springs",hotel,287.18
+EX-40329,2025-12-30,Student Life,Staff 078,"Orientation leaders conference, Clearwater Springs",meals,165.00
+EX-40330,2025-12-30,Student Life,Staff 078,"Orientation leaders conference, Clearwater Springs",parking,54.00
+EX-40331,2025-12-31,Advising,Staff 014,"Transfer advising workshop, Clearwater Springs",hotel,253.64
+EX-40332,2025-12-31,Advising,Staff 014,"Transfer advising workshop, Clearwater Springs",meals,180.00
+EX-40333,2026-01-01,Admissions,Staff 003,"Counselor breakfast, Harbor City",airfare,279.67
+EX-40334,2026-01-01,Facilities,Staff 028,"Safety training, Pine Ridge",airfare,618.22
+EX-40335,2026-01-03,Admissions,Staff 003,"Counselor breakfast, Harbor City",hotel,375.18
+EX-40336,2026-01-03,Admissions,Staff 003,"Counselor breakfast, Harbor City",meals,180.00
+EX-40337,2026-01-04,Facilities,Staff 028,"Safety training, Pine Ridge",hotel,389.25
+EX-40338,2026-01-04,Facilities,Staff 028,"Safety training, Pine Ridge",meals,240.00
+EX-40339,2026-01-04,Facilities,Staff 028,"Safety training, Pine Ridge",parking,72.00
+EX-40340,2026-01-09,Facilities,Staff 028,"Vendor site visit, Lakeport",mileage,251.46
+EX-40341,2026-01-10,Advising,Staff 013,"Advising conference, Fairview",mileage,56.18
+EX-40342,2026-01-10,Facilities,Staff 028,"Vendor site visit, Lakeport",hotel,184.93
+EX-40343,2026-01-10,Facilities,Staff 028,"Vendor site visit, Lakeport",meals,120.00
+EX-40344,2026-01-10,Financial Aid,Staff 037,"College goal day, Northfield",mileage,172.80
+EX-40345,2026-01-11,Admissions,Staff 001,"Counselor breakfast, Silver Lake",mileage,187.58
+EX-40346,2026-01-12,Admissions,Staff 001,"Counselor breakfast, Silver Lake",hotel,123.20
+EX-40347,2026-01-12,Admissions,Staff 001,"Counselor breakfast, Silver Lake",meals,120.00
+EX-40348,2026-01-12,Advising,Staff 013,"Advising conference, Fairview",hotel,245.87
+EX-40349,2026-01-12,Advising,Staff 013,"Advising conference, Fairview",meals,60.00
+EX-40350,2026-01-12,Human Resources,Staff 049,"Job fair, Granite Falls",airfare,274.73
+EX-40351,2026-01-13,Financial Aid,Staff 037,"College goal day, Northfield",hotel,595.11
+EX-40352,2026-01-13,Financial Aid,Staff 037,"College goal day, Northfield",meals,240.00
+EX-40353,2026-01-15,Advising,Staff 014,"Regional advising meeting, Silver Lake",airfare,216.70
+EX-40354,2026-01-15,Human Resources,Staff 049,"Job fair, Granite Falls",hotel,562.83
+EX-40355,2026-01-15,Human Resources,Staff 049,"Job fair, Granite Falls",meals,240.00
+EX-40356,2026-01-15,Human Resources,Staff 049,"Job fair, Granite Falls",parking,72.00
+EX-40357,2026-01-15,Library,Staff 051,"Archives workshop, Northfield",airfare,428.58
+EX-40358,2026-01-16,Human Resources,Staff 046,"HR conference, Riverton",mileage,158.20
+EX-40359,2026-01-17,Human Resources,Staff 046,"HR conference, Riverton",hotel,119.31
+EX-40360,2026-01-17,Human Resources,Staff 046,"HR conference, Riverton",meals,105.00
+EX-40361,2026-01-18,Advising,Staff 014,"Regional advising meeting, Silver Lake",hotel,582.30
+EX-40362,2026-01-18,Advising,Staff 014,"Regional advising meeting, Silver Lake",meals,220.00
+EX-40363,2026-01-18,Library,Staff 051,"Archives workshop, Northfield",hotel,581.55
+EX-40364,2026-01-18,Library,Staff 051,"Archives workshop, Northfield",meals,225.00
+EX-40365,2026-01-20,Advising,Staff 015,"Advising conference, Clearwater Springs",mileage,188.73
+EX-40366,2026-01-20,Human Resources,Staff 049,"Job fair, Lakeport",conference fee,295.00
+EX-40367,2026-01-21,Advising,Staff 015,"Advising conference, Clearwater Springs",hotel,128.62
+EX-40368,2026-01-21,Advising,Staff 015,"Advising conference, Clearwater Springs",meals,120.00
+EX-40369,2026-01-21,Student Life,Staff 071,"Club travel, staff advisor, Northfield",airfare,317.98
+EX-40370,2026-01-22,Admissions,Staff 001,"Recruitment travel, Silver Lake",mileage,244.81
+EX-40371,2026-01-22,Financial Aid,Staff 035,"College goal day, Westhaven",airfare,452.68
+EX-40372,2026-01-23,Admissions,Staff 006,"High school visits, Harbor City",mileage,136.18
+EX-40373,2026-01-24,Admissions,Staff 005,"Transfer fair, Millbrook",airfare,633.92
+EX-40374,2026-01-24,Human Resources,Staff 042,"HR conference, Pine Ridge",mileage,184.88
+EX-40375,2026-01-24,Student Life,Staff 071,"Club travel, staff advisor, Northfield",ground transport,64.54
+EX-40376,2026-01-24,Student Life,Staff 071,"Club travel, staff advisor, Northfield",hotel,434.79
+EX-40377,2026-01-24,Student Life,Staff 071,"Club travel, staff advisor, Northfield",meals,240.00
+EX-40378,2026-01-24,Student Life,Staff 071,"Club travel, staff advisor, Northfield",parking,72.00
+EX-40379,2026-01-25,Admissions,Staff 001,"Recruitment travel, Silver Lake",hotel,474.75
+EX-40380,2026-01-25,Admissions,Staff 001,"Recruitment travel, Silver Lake",meals,220.00
+EX-40381,2026-01-25,Financial Aid,Staff 035,"College goal day, Westhaven",hotel,592.83
+EX-40382,2026-01-25,Financial Aid,Staff 035,"College goal day, Westhaven",meals,240.00
+EX-40383,2026-01-25,Financial Aid,Staff 035,"College goal day, Westhaven",parking,72.00
+EX-40384,2026-01-25,Human Resources,Staff 042,"HR conference, Pine Ridge",hotel,154.73
+EX-40385,2026-01-25,Human Resources,Staff 042,"HR conference, Pine Ridge",meals,120.00
+EX-40386,2026-01-25,Student Life,Staff 074,"Student leadership retreat, Granite Falls",mileage,196.90
+EX-40387,2026-01-26,Admissions,Staff 006,"High school visits, Harbor City",hotel,424.77
+EX-40388,2026-01-26,Admissions,Staff 006,"High school visits, Harbor City",meals,240.00
+EX-40389,2026-01-26,Advising,Staff 011,"Advising conference, Lakeport",airfare,432.04
+EX-40390,2026-01-27,Admissions,Staff 005,"Transfer fair, Millbrook",hotel,574.35
+EX-40391,2026-01-27,Admissions,Staff 005,"Transfer fair, Millbrook",meals,225.00
+EX-40392,2026-01-27,Student Life,Staff 074,"Student leadership retreat, Granite Falls",hotel,340.34
+EX-40393,2026-01-27,Student Life,Staff 074,"Student leadership retreat, Granite Falls",meals,180.00
+EX-40394,2026-01-28,Advising,Staff 011,"Advising conference, Lakeport",hotel,254.46
+EX-40395,2026-01-28,Advising,Staff 011,"Advising conference, Lakeport",meals,165.00
+EX-40396,2026-01-31,Admissions,Staff 002,"Counselor breakfast, Clearwater Springs",airfare,423.50
+EX-40397,2026-01-31,Admissions,Staff 009,"College fair, Bayside",airfare,485.89
+EX-40398,2026-02-01,Admissions,Staff 004,"High school visits, Granite Falls",mileage,252.03
+EX-40399,2026-02-01,Advising,Staff 015,"Advising conference, Northfield",conference fee,495.00
+EX-40400,2026-02-03,Admissions,Staff 002,"Counselor breakfast, Clearwater Springs",hotel,486.57
+EX-40401,2026-02-03,Admissions,Staff 002,"Counselor breakfast, Clearwater Springs",meals,220.00
+EX-40402,2026-02-03,Admissions,Staff 004,"High school visits, Granite Falls",hotel,305.50
+EX-40403,2026-02-03,Admissions,Staff 004,"High school visits, Granite Falls",meals,165.00
+EX-40404,2026-02-03,Admissions,Staff 005,"College fair, Lakeport",mileage,252.19
+EX-40405,2026-02-03,Admissions,Staff 009,"College fair, Bayside",hotel,402.06
+EX-40406,2026-02-03,Admissions,Staff 009,"College fair, Bayside",meals,220.00
+EX-40407,2026-02-05,Admissions,Staff 008,"Counselor breakfast, Pine Ridge",mileage,185.56
+EX-40408,2026-02-06,Student Life,Staff 073,"Club travel, staff advisor, Millbrook",airfare,465.13
+EX-40409,2026-02-07,Admissions,Staff 005,"College fair, Lakeport",hotel,476.80
+EX-40410,2026-02-07,Admissions,Staff 005,"College fair, Lakeport",meals,280.00
+EX-40411,2026-02-07,Facilities,Staff 023,"Vendor site visit, Lakeport",mileage,125.21
+EX-40412,2026-02-08,Admisions,Staff 004,"Counselor breakfast, Clearwater Springs",airfare,495.81
+EX-40413,2026-02-08,Admissions,Staff 008,"Counselor breakfast, Pine Ridge",hotel,441.54
+EX-40414,2026-02-08,Admissions,Staff 008,"Counselor breakfast, Pine Ridge",meals,240.00
+EX-40415,2026-02-08,Student Life,Staff 073,"Club travel, staff advisor, Millbrook",ground transport,36.31
+EX-40416,2026-02-08,Student Life,Staff 073,"Club travel, staff advisor, Millbrook",hotel,260.88
+EX-40417,2026-02-08,Student Life,Staff 073,"Club travel, staff advisor, Millbrook",meals,180.00
+EX-40418,2026-02-09,Facilities,Staff 023,"Vendor site visit, Lakeport",hotel,284.32
+EX-40419,2026-02-09,Facilities,Staff 023,"Vendor site visit, Lakeport",meals,180.00
+EX-40420,2026-02-10,Student Life,Staff 072,"Student leadership retreat, Granite Falls",mileage,95.53
+EX-40421,2026-02-11,Admisions,Staff 004,"Counselor breakfast, Clearwater Springs",hotel,454.44
+EX-40422,2026-02-11,Admisions,Staff 004,"Counselor breakfast, Clearwater Springs",meals,225.00
+EX-40423,2026-02-11,Admisions,Staff 004,"Counselor breakfast, Clearwater Springs",parking,72.00
+EX-40424,2026-02-12,Human Resources,Staff 049,"Job fair, Lakeport",airfare,429.57
+EX-40425,2026-02-12,Student Life,Staff 072,"Student leadership retreat, Granite Falls",hotel,300.78
+EX-40426,2026-02-12,Student Life,Staff 072,"Student leadership retreat, Granite Falls",meals,180.00
+EX-40427,2026-02-13,Registrar,Staff 061,"Consortium meeting, Clearwater Springs",airfare,346.10
+EX-40428,2026-02-14,Human Resources,Staff 049,"Job fair, Lakeport",hotel,331.74
+EX-40429,2026-02-14,Human Resources,Staff 049,"Job fair, Lakeport",meals,160.00
+EX-40430,2026-02-14,Human Resources,Staff 049,"Job fair, Lakeport",parking,54.00
+EX-40431,2026-02-16,Advising,Staff 019,"Advising conference, Bayside",airfare,488.82
+EX-40432,2026-02-16,Registrar,Staff 061,"Consortium meeting, Clearwater Springs",hotel,461.13
+EX-40433,2026-02-16,Registrar,Staff 061,"Consortium meeting, Clearwater Springs",meals,225.00
+EX-40434,2026-02-19,Advising,Staff 019,"Advising conference, Bayside",hotel,497.88
+EX-40435,2026-02-19,Advising,Staff 019,"Advising conference, Bayside",meals,240.00
+EX-40436,2026-02-19,Advising,Staff 019,"Advising conference, Bayside",parking,72.00
+EX-40437,2026-02-19,Facilities,Staff 028,"Vendor site visit, Fairview",airfare,257.27
+EX-40438,2026-02-22,Facilities,Staff 028,"Vendor site visit, Fairview",hotel,527.85
+EX-40439,2026-02-22,Facilities,Staff 028,"Vendor site visit, Fairview",meals,240.00
+EX-40440,2026-02-23,Admissions,Staff 007,"High school visits, Bayside",airfare,520.68
+EX-40441,2026-02-23,Facilities,Staff 022,"Safety training, Harbor City",airfare,582.65
+EX-40442,2026-02-26,Facilities,Staff 022,"Safety training, Harbor City",hotel,394.11
+EX-40443,2026-02-26,Facilities,Staff 022,"Safety training, Harbor City",meals,225.00
+EX-40444,2026-02-26,Facilities,Staff 022,"Safety training, Harbor City",parking,72.00
+EX-40445,2026-02-27,Admissions,Staff 007,"High school visits, Bayside",hotel,578.28
+EX-40446,2026-02-27,Admissions,Staff 007,"High school visits, Bayside",meals,300.00
+EX-40447,2026-02-27,Facilities,Staff 027,"Facilities management conference, Riverton",airfare,481.39
+EX-40448,2026-03-01,Facilities,Staff 027,"Facilities management conference, Riverton",hotel,303.12
+EX-40449,2026-03-01,Facilities,Staff 027,"Facilities management conference, Riverton",meals,180.00
+EX-40450,2026-03-02,Registrar,Staff 067,"Consortium meeting, Eastgate",mileage,124.63
+EX-40451,2026-03-04,Advising,Staff 011,"Transfer advising workshop, Lakeport",mileage,235.28
+EX-40452,2026-03-05,Registrar,Staff 067,"Consortium meeting, Eastgate",hotel,532.92
+EX-40453,2026-03-05,Registrar,Staff 067,"Consortium meeting, Eastgate",meals,225.00
+EX-40454,2026-03-06,Facilities,Staff 029,"Facilities management conference, Lakeport",airfare,396.84
+EX-40455,2026-03-07,Advising,Staff 011,"Transfer advising workshop, Lakeport",hotel,434.16
+EX-40456,2026-03-07,Advising,Staff 011,"Transfer advising workshop, Lakeport",meals,240.00
+EX-40457,2026-03-09,Facilities,Staff 029,"Facilities management conference, Lakeport",hotel,437.97
+EX-40458,2026-03-09,Facilities,Staff 029,"Facilities management conference, Lakeport",meals,240.00
+EX-40459,2026-03-09,Registrar,Staff 061,"Records system training, Lakeport",mileage,209.37
+EX-40460,2026-03-10,Registrar,Staff 061,"Records system training, Lakeport",hotel,60.72
+EX-40461,2026-03-10,Registrar,Staff 061,"Records system training, Lakeport",meals,60.00
+EX-40462,2026-03-14,Advising,Staff 015,"Advising conference, Northfield",airfare,559.67
+EX-40463,2026-03-14,Financial Aid,Staff 034,"Financial aid conference, Harbor City",airfare,486.22
+EX-40464,2026-03-15,Admissions,Staff 002,"Recruitment travel, Clearwater Springs",airfare,479.55
+EX-40465,2026-03-15,Human Resources,Staff 043,"Benefits training, Bayside",mileage,134.06
+EX-40466,2026-03-16,Financial Aid,Staff 034,"Financial aid conference, Harbor City",hotel,258.64
+EX-40467,2026-03-16,Financial Aid,Staff 034,"Financial aid conference, Harbor City",meals,160.00
+EX-40468,2026-03-17,Advising,Staff 015,"Advising conference, Northfield",hotel,584.49
+EX-40469,2026-03-17,Advising,Staff 015,"Advising conference, Northfield",meals,240.00
+EX-40470,2026-03-17,Financial Aid,Staff 039,"College goal day, Eastgate",airfare,633.73
+EX-40471,2026-03-18,Admissions,Staff 002,"Recruitment travel, Clearwater Springs",ground transport,19.14
+EX-40472,2026-03-18,Admissions,Staff 002,"Recruitment travel, Clearwater Springs",hotel,467.88
+EX-40473,2026-03-18,Admissions,Staff 002,"Recruitment travel, Clearwater Springs",meals,220.00
+EX-40474,2026-03-18,Admissions,Staff 002,"Recruitment travel, Clearwater Springs",parking,72.00
+EX-40475,2026-03-18,Financial Aid,Staff 039,"Financial aid conference, Bayside",airfare,448.62
+EX-40476,2026-03-18,Human Resources,Staff 043,"Benefits training, Bayside",hotel,534.75
+EX-40477,2026-03-18,Human Resources,Staff 043,"Benefits training, Bayside",meals,240.00
+EX-40478,2026-03-19,Advising,Staff 013,"Advising conference, Millbrook",airfare,233.71
+EX-40479,2026-03-19,Financial Aid,Staff 039,"College goal day, Eastgate",ground transport,26.84
+EX-40480,2026-03-19,Financial Aid,Staff 039,"College goal day, Eastgate",hotel,313.20
+EX-40481,2026-03-19,Financial Aid,Staff 039,"College goal day, Eastgate",meals,180.00
+EX-40482,2026-03-19,Student Life,Staff 075,"Student activities conference, Pine Ridge",airfare,440.02
+EX-40483,2026-03-22,Admissions,Staff 005,"Transfer fair, Fairview",mileage,89.38
+EX-40484,2026-03-22,Financial Aid,Staff 039,"Financial aid conference, Bayside",ground transport,36.97
+EX-40485,2026-03-22,Financial Aid,Staff 039,"Financial aid conference, Bayside",hotel,716.64
+EX-40486,2026-03-22,Financial Aid,Staff 039,"Financial aid conference, Bayside",meals,300.00
+EX-40487,2026-03-22,Student Life,Staff 075,"Student activities conference, Pine Ridge",ground transport,35.10
+EX-40488,2026-03-22,Student Life,Staff 075,"Student activities conference, Pine Ridge",hotel,492.60
+EX-40489,2026-03-22,Student Life,Staff 075,"Student activities conference, Pine Ridge",meals,240.00
+EX-40490,2026-03-23,Advising,Staff 013,"Advising conference, Millbrook",hotel,508.72
+EX-40491,2026-03-23,Advising,Staff 013,"Advising conference, Millbrook",meals,300.00
+EX-40492,2026-03-23,Advising,Staff 013,"Advising conference, Millbrook",parking,90.00
+EX-40493,2026-03-24,Admissions,Staff 005,"Transfer fair, Fairview",hotel,285.86
+EX-40494,2026-03-24,Admissions,Staff 005,"Transfer fair, Fairview",meals,180.00
+EX-40495,2026-03-25,Student Life,Staff 075,"Orientation leaders conference, Harbor City",airfare,370.30
+EX-40496,2026-03-29,Student Life,Staff 075,"Orientation leaders conference, Harbor City",ground transport,55.89
+EX-40497,2026-03-29,Student Life,Staff 075,"Orientation leaders conference, Harbor City",hotel,639.52
+EX-40498,2026-03-29,Student Life,Staff 075,"Orientation leaders conference, Harbor City",meals,285.00
+EX-40499,2026-03-30,Student Life,Staff 077,"Orientation leaders conference, Fairview",airfare,503.95
+EX-40500,2026-03-31,Human Resources,Staff 042,"Benefits training, Northfield",mileage,92.30
+EX-40501,2026-04-01,Student Life,Staff 077,"Orientation leaders conference, Fairview",hotel,384.02
+EX-40502,2026-04-01,Student Life,Staff 077,"Orientation leaders conference, Fairview",meals,160.00
+EX-40503,2026-04-03,Human Resources,Staff 042,"Benefits training, Northfield",hotel,562.32
+EX-40504,2026-04-03,Human Resources,Staff 042,"Benefits training, Northfield",meals,240.00
+EX-40505,2026-04-03,Registrar,Staff 069,"Consortium meeting, Eastgate",mileage,130.55
+EX-40506,2026-04-04,Financial Aid,Staff 034,"Aid regulations training, Oak Hollow",airfare,385.77
+EX-40507,2026-04-04,Registrar,Staff 069,"Consortium meeting, Eastgate",hotel,183.00
+EX-40508,2026-04-04,Registrar,Staff 069,"Consortium meeting, Eastgate",meals,120.00
+EX-40509,2026-04-05,Financial Aid,Staff 035,"College goal day, Pine Ridge",airfare,323.03
+EX-40510,2026-04-05,Library,Staff 057,"Archives workshop, Fairview",mileage,53.58
+EX-40511,2026-04-07,Financial Aid,Staff 034,"Aid regulations training, Oak Hollow",hotel,573.75
+EX-40512,2026-04-07,Financial Aid,Staff 034,"Aid regulations training, Oak Hollow",meals,240.00
+EX-40513,2026-04-07,Library,Staff 057,"Archives workshop, Fairview",hotel,259.68
+EX-40514,2026-04-07,Library,Staff 057,"Archives workshop, Fairview",meals,60.00
+EX-40515,2026-04-07,Student Life,Staff 078,"Orientation leaders conference, Eastgate",conference fee,600.00
+EX-40516,2026-04-08,Admissions,Staff 008,"Recruitment travel, Westhaven",conference fee,775.00
+EX-40517,2026-04-08,Human Resources,Staff 047,"Job fair, Fairview",mileage,169.10
+EX-40518,2026-04-09,Financial Aid,Staff 035,"College goal day, Pine Ridge",ground transport,23.78
+EX-40519,2026-04-09,Financial Aid,Staff 035,"College goal day, Pine Ridge",hotel,500.16
+EX-40520,2026-04-09,Financial Aid,Staff 035,"College goal day, Pine Ridge",meals,280.00
+EX-40521,2026-04-11,Human Resources,Staff 047,"Job fair, Fairview",hotel,563.73
+EX-40521,2026-04-11,Human Resources,Staff 047,"Job fair, Fairview",hotel,563.73
+EX-40522,2026-04-11,Human Resources,Staff 047,"Job fair, Fairview",meals,220.00
+EX-40523,2026-04-15,Admisions,Staff 003,"Counselor breakfast, Bayside",mileage,60.14
+EX-40524,2026-04-16,Admisions,Staff 003,"Counselor breakfast, Bayside",hotel,199.29
+EX-40525,2026-04-16,Admisions,Staff 003,"Counselor breakfast, Bayside",meals,120.00
+EX-40526,2026-04-16,Admisions,Staff 003,"Counselor breakfast, Bayside",parking,8.65
+EX-40527,2026-04-19,Advising,Staff 015,"Regional advising meeting, Pine Ridge",airfare,502.77
+EX-40528,2026-04-19,Registrar,Staff 066,"Records system training, Harbor City",airfare,286.33
+EX-40529,2026-04-20,Admissions,Staff 001,"College fair, Bayside",airfare,574.20
+EX-40530,2026-04-21,Advising,Staff 015,"Regional advising meeting, Pine Ridge",hotel,328.46
+EX-40531,2026-04-21,Advising,Staff 015,"Regional advising meeting, Pine Ridge",meals,160.00
+EX-40532,2026-04-21,Advising,Staff 015,"Regional advising meeting, Pine Ridge",parking,54.00
+EX-40533,2026-04-22,Facilities,Staff 029,"Facilities management conference, Granite Falls",mileage,214.75
+EX-40534,2026-04-22,Registrar,Staff 066,"Records system training, Harbor City",hotel,424.14
+EX-40535,2026-04-22,Registrar,Staff 066,"Records system training, Harbor City",meals,240.00
+EX-40536,2026-04-23,Admissions,Staff 001,"College fair, Bayside",ground transport,39.60
+EX-40537,2026-04-23,Admissions,Staff 001,"College fair, Bayside",hotel,464.16
+EX-40538,2026-04-23,Admissions,Staff 001,"College fair, Bayside",meals,240.00
+EX-40539,2026-04-23,Admissions,Staff 001,"College fair, Bayside",parking,72.00
+EX-40540,2026-04-23,Admissions,Staff 008,"Recruitment travel, Westhaven",mileage,76.01
+EX-40541,2026-04-23,Facilities,Staff 029,"Facilities management conference, Granite Falls",hotel,179.25
+EX-40542,2026-04-23,Facilities,Staff 029,"Facilities management conference, Granite Falls",meals,105.00
+EX-40543,2026-04-24,Financial Aid,Staff 036,"College goal day, Lakeport",mileage,76.11
+EX-40544,2026-04-25,Admissions,Staff 008,"Recruitment travel, Westhaven",hotel,323.72
+EX-40545,2026-04-25,Admissions,Staff 008,"Recruitment travel, Westhaven",meals,180.00
+EX-40546,2026-04-25,Financial Aid,Staff 036,"College goal day, Lakeport",hotel,153.49
+EX-40547,2026-04-25,Financial Aid,Staff 036,"College goal day, Lakeport",meals,120.00
+EX-40548,2026-04-26,Student Life,Staff 072,"Student activities conference, Granite Falls",airfare,211.53
+EX-40549,2026-04-27,Student Life,Staff 076,"Student leadership retreat, Riverton",mileage,205.52
+EX-40550,2026-04-29,Student Life,Staff 076,"Student leadership retreat, Riverton",hotel,320.92
+EX-40551,2026-04-29,Student Life,Staff 076,"Student leadership retreat, Riverton",meals,160.00
+EX-40552,2026-04-29,Student Life,Staff 076,"Student leadership retreat, Riverton",parking,38.01
+EX-40553,2026-04-30,Student Life,Staff 072,"Student activities conference, Granite Falls",hotel,609.60
+EX-40554,2026-04-30,Student Life,Staff 072,"Student activities conference, Granite Falls",meals,300.00
+EX-40555,2026-05-08,Student Life,Staff 078,"Orientation leaders conference, Eastgate",mileage,93.19
+EX-40556,2026-05-09,Admissions,Staff 002,"Transfer fair, Bayside",mileage,163.56
+EX-40557,2026-05-09,Student Life,Staff 076,"Student activities conference, Westhaven",conference fee,575.00
+EX-40558,2026-05-10,Admissions,Staff 002,"Transfer fair, Bayside",hotel,167.66
+EX-40559,2026-05-10,Admissions,Staff 002,"Transfer fair, Bayside",meals,105.00
+EX-40560,2026-05-11,Admissions,Staff 006,"High school visits, Riverton",airfare,617.02
+EX-40561,2026-05-11,Student Life,Staff 078,"Orientation leaders conference, Silver Lake",airfare,212.98
+EX-40562,2026-05-12,Student Life,Staff 078,"Orientation leaders conference, Eastgate",hotel,584.60
+EX-40563,2026-05-12,Student Life,Staff 078,"Orientation leaders conference, Eastgate",meals,300.00
+EX-40564,2026-05-13,Admissions,Staff 006,"High school visits, Riverton",ground transport,62.76
+EX-40565,2026-05-13,Admissions,Staff 006,"High school visits, Riverton",hotel,347.52
+EX-40566,2026-05-13,Admissions,Staff 006,"High school visits, Riverton",meals,180.00
+EX-40567,2026-05-14,Student Life,Staff 078,"Orientation leaders conference, Silver Lake",hotel,430.80
+EX-40568,2026-05-14,Student Life,Staff 078,"Orientation leaders conference, Silver Lake",meals,225.00
+EX-40569,2026-05-14,Student Life,Staff 078,"Orientation leaders conference, Silver Lake",parking,72.00
+EX-40570,2026-05-15,Registrar,Staff 064,"Registrar conference, Granite Falls",airfare,580.68
+EX-40571,2026-05-15,Student Life,Staff 074,"Student leadership retreat, Clearwater Springs",airfare,235.71
+EX-40572,2026-05-16,Registrar,Staff 064,"Registrar conference, Granite Falls",ground transport,41.16
+EX-40573,2026-05-16,Registrar,Staff 064,"Registrar conference, Granite Falls",hotel,186.41
+EX-40574,2026-05-16,Registrar,Staff 064,"Registrar conference, Granite Falls",meals,100.00
+EX-40575,2026-05-16,Registrar,Staff 064,"Registrar conference, Granite Falls",parking,36.00
+EX-40576,2026-05-18,Student Life,Staff 074,"Student leadership retreat, Clearwater Springs",hotel,522.15
+EX-40577,2026-05-18,Student Life,Staff 074,"Student leadership retreat, Clearwater Springs",meals,225.00
+EX-40578,2026-05-23,Student Life,Staff 076,"Student leadership retreat, Northfield",airfare,293.97
+EX-40579,2026-05-26,Student Life,Staff 076,"Student leadership retreat, Northfield",ground transport,50.35
+EX-40580,2026-05-26,Student Life,Staff 076,"Student leadership retreat, Northfield",hotel,474.57
+EX-40581,2026-05-26,Student Life,Staff 076,"Student leadership retreat, Northfield",meals,220.00
+EX-40582,2026-05-27,Student Life,Staff 079,"Student leadership retreat, Northfield",airfare,570.89
+EX-40583,2026-05-28,Admissions,Staff 003,"College fair, Pine Ridge",mileage,138.04
+EX-40584,2026-05-28,Financial Aid,Staff 034,"College goal day, Eastgate",mileage,125.35
+EX-40585,2026-05-29,Admisions,Staff 004,"Transfer fair, Lakeport",mileage,96.39
+EX-40586,2026-05-29,Admisions,Staff 006,"Recruitment travel, Pine Ridge",airfare,349.84
+EX-40587,2026-05-29,Admissions,Staff 003,"College fair, Pine Ridge",hotel,110.43
+EX-40588,2026-05-29,Admissions,Staff 003,"College fair, Pine Ridge",meals,60.00
+EX-40589,2026-05-30,Admisions,Staff 004,"Transfer fair, Lakeport",hotel,145.74
+EX-40590,2026-05-30,Admisions,Staff 004,"Transfer fair, Lakeport",meals,60.00
+EX-40591,2026-05-30,Financial Aid,Staff 034,"College goal day, Eastgate",hotel,262.12
+EX-40592,2026-05-30,Financial Aid,Staff 034,"College goal day, Eastgate",meals,160.00
+EX-40593,2026-05-30,Student Life,Staff 079,"Student leadership retreat, Northfield",hotel,391.98
+EX-40594,2026-05-30,Student Life,Staff 079,"Student leadership retreat, Northfield",meals,220.00
+EX-40595,2026-05-31,Admisions,Staff 006,"Recruitment travel, Pine Ridge",hotel,257.86
+EX-40596,2026-05-31,Admisions,Staff 006,"Recruitment travel, Pine Ridge",meals,180.00
+EX-40597,2026-06-01,Student Life,Staff 076,"Student activities conference, Westhaven",airfare,432.10
+EX-40598,2026-06-04,Student Life,Staff 076,"Student activities conference, Westhaven",hotel,382.83
+EX-40599,2026-06-04,Student Life,Staff 076,"Student activities conference, Westhaven",meals,225.00
+EX-40600,2026-06-05,Admisions,Staff 004,"High school visits, Westhaven",airfare,633.00
+EX-40601,2026-06-07,Facilities,Staff 023,"Facilities management conference, Lakeport",mileage,180.90
+EX-40602,2026-06-07,Facilities,Staff 024,"Safety training, Pine Ridge",airfare,553.71
+EX-40603,2026-06-07,Student Life,Staff 075,"Student leadership retreat, Silver Lake",airfare,241.21
+EX-40604,2026-06-08,Admissions,Staff 002,"Recruitment travel, Eastgate",airfare,298.38
+EX-40605,2026-06-09,Admisions,Staff 004,"High school visits, Westhaven",hotel,562.56
+EX-40606,2026-06-09,Admisions,Staff 004,"High school visits, Westhaven",meals,300.00
+EX-40607,2026-06-09,Facilities,Staff 023,"Facilities management conference, Lakeport",hotel,275.18
+EX-40608,2026-06-09,Facilities,Staff 023,"Facilities management conference, Lakeport",meals,180.00
+EX-40609,2026-06-09,Facilities,Staff 024,"Safety training, Pine Ridge",hotel,265.68
+EX-40610,2026-06-09,Facilities,Staff 024,"Safety training, Pine Ridge",meals,180.00
+EX-40611,2026-06-09,Student Life,Staff 075,"Student leadership retreat, Silver Lake",ground transport,57.97
+EX-40612,2026-06-09,Student Life,Staff 075,"Student leadership retreat, Silver Lake",hotel,290.30
+EX-40613,2026-06-09,Student Life,Staff 075,"Student leadership retreat, Silver Lake",meals,180.00
+EX-40614,2026-06-09,Student Life,Staff 075,"Student leadership retreat, Silver Lake",parking,54.00
+EX-40615,2026-06-10,Facilities,Staff 023,"Vendor site visit, Pine Ridge",airfare,460.32
+EX-40616,2026-06-12,Admissions,Staff 002,"Recruitment travel, Eastgate",hotel,518.96
+EX-40617,2026-06-12,Admissions,Staff 002,"Recruitment travel, Eastgate",meals,280.00
+EX-40618,2026-06-14,Facilities,Staff 023,"Vendor site visit, Pine Ridge",hotel,596.96
+EX-40619,2026-06-14,Facilities,Staff 023,"Vendor site visit, Pine Ridge",meals,300.00
+EX-40620,2026-06-18,Admissions,Staff 007,"Recruitment travel, Pine Ridge",mileage,108.39
+EX-40621,2026-06-19,Admissions,Staff 007,"College fair, Northfield",mileage,142.43
+EX-40622,2026-06-21,Admissions,Staff 007,"Recruitment travel, Pine Ridge",hotel,361.05
+EX-40623,2026-06-21,Admissions,Staff 007,"Recruitment travel, Pine Ridge",meals,240.00
+EX-40624,2026-06-22,Admissions,Staff 007,"College fair, Northfield",hotel,589.74
+EX-40625,2026-06-22,Admissions,Staff 007,"College fair, Northfield",meals,240.00
+EX-40626,2026-06-23,Financial Aid,Staff 039,"Financial aid conference, Fairview",airfare,610.29
+EX-40627,2026-06-24,Student Life,Staff 074,"Orientation leaders conference, Riverton",airfare,402.21
+EX-40628,2026-06-25,Financial Aid,Staff 039,"Financial aid conference, Fairview",hotel,264.82
+EX-40629,2026-06-25,Financial Aid,Staff 039,"Financial aid conference, Fairview",meals,160.00
+EX-40630,2026-06-25,Financial Aid,Staff 039,"Financial aid conference, Fairview",parking,54.00
+EX-40631,2026-06-25,Student Life,Staff 074,"Orientation leaders conference, Riverton",hotel,159.04
+EX-40632,2026-06-25,Student Life,Staff 074,"Orientation leaders conference, Riverton",meals,120.00
