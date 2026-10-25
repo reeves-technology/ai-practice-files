@@ -20,10 +20,15 @@ Work on a copy, so you can start again if you want to.
 | `policy-question/` | Appendix B, example B1 | `inbox/airport.txt`, `travel-policy.pdf`, `faq.md` |
 | `vendor-comparison/` | Appendix B, example B2 | `approved-tools.pdf`, `requirements-example.md` |
 | `applications/` | Appendix B, example B3 | `scholarship-guidance.pdf`, `applications/` (12 PDFs) |
+| `registrations/` | Appendix A, the agent walkthrough | `event-registrations.csv` |
+| `inquiries/` | Chapter 6, examples 1 and 3; the `inquiry-replies` skill in chapter 2 | six emails, `travel-policy.pdf`, `skills/inquiry-replies/` |
+| `library-visits/` | Chapter 6, examples 4 and 7 | `library-visits.csv` |
+| `survey-comments/` | Chapter 6, example 5 | `survey-comments.csv` (25 comments) |
+| `course-catalog/` | Chapter 6, examples 8, 9 and 10 | a small Python project with tests, `ISSUES.md`, `feature-requests.md` |
 
-Try each task twice: once pasted into a chat in one go, then as the
-workflow in the book. Compare the answers. Your facilitator has the
-correct ones.
+For the Appendix B tasks, try each one twice: once pasted into a chat in
+one go, then as the workflow in the book, and compare the answers. Your
+facilitator has the correct ones.
 
 ---
 

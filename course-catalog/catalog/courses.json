@@ -1,0 +1,11 @@
+[
+  {"code": "BIO-101", "title": "Introduction to Biology", "dept": "BIO", "credits": 4, "prereqs": []},
+  {"code": "BIO-201", "title": "Cell Biology", "dept": "BIO", "credits": 4, "prereqs": ["BIO-101"]},
+  {"code": "BIO-310", "title": "Genetics", "dept": "BIO", "credits": 3, "prereqs": ["BIO-201", "CHEM-101"]},
+  {"code": "CHEM-101", "title": "Introduction to Chemistry", "dept": "CHEM", "credits": 4, "prereqs": []},
+  {"code": "CHEM-210", "title": "Organic Chemistry", "dept": "CHEM", "credits": 4, "prereqs": ["CHEM-101"]},
+  {"code": "HIST-110", "title": "Introduction to World History", "dept": "HIST", "credits": 3, "prereqs": []},
+  {"code": "HIST-240", "title": "History of Science and Biology", "dept": "HIST", "credits": 3, "prereqs": ["HIST-110"]},
+  {"code": "CS-101", "title": "Introduction to Programming", "dept": "CS", "credits": 3, "prereqs": []},
+  {"code": "CS-220", "title": "Data Structures", "dept": "CS", "credits": 3, "prereqs": ["CS-101"]}
+]
